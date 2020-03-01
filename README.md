@@ -8,11 +8,11 @@
 
 #### 1）个性化文件夹图标
 
-1.以管理员的身份运行customize-folder-icon-in-windows10.bat。
+  1.以管理员的身份运行customize-folder-icon-in-windows10.bat。
 
-2.输入文件夹图标文件（.ico）的完整路径，按Enter。
+  2.输入文件夹图标文件（.ico）的完整路径，按Enter。
 
-3.重启系统
+  3.重启系统
 
 ### 注意事项
 
